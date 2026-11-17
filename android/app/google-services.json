@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "989317892519",
+    "firebase_url": "https://collegebustracking-b74e2-default-rtdb.firebaseio.com",
+    "project_id": "collegebustracking-b74e2",
+    "storage_bucket": "collegebustracking-b74e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989317892519:android:ae724185d2abc4a0df4e82",
+        "android_client_info": {
+          "package_name": "com.example.collegebustracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYG5kzQMLU1XinbrpPZpTuddJcCUUd19M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
